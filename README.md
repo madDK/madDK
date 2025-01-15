@@ -4,6 +4,24 @@
 
 Self-driven, exact, analytic thinker that has experienced with collaborating with the Development, QA and IT team with DevOps mindset to provide the better software and infrastructure by implementing security, monitoring and tuning the configuration of these systems. Maintaining the systems with optimizing the Delivery infrastructure by improving performance, scalability and efficiency of the setup. Driven by technical challenges and is always eager to find better and more efficient ways of delivering solutions to the customer.
 
+#### 💻 Technical Skills
+Containerization & Orchestration: Kubernetes, Rancher, Docker, Istio
+
+CI/CD Tools: Jenkins, SonarQube, Terraform, Ansible
+
+Cloud Platforms: AWS, Azure, GCP, AKS
+
+Monitoring & Alerting: PagerDuty, NewRelic, Pingdom, Nagios, Prometheus, Grafana
+
+Databases: MySQL, MongoDB, PostgreSQL
+
+Web Servers & Proxies: Apache Tomcat Server, nginx
+
+Programming & Scripting Languages: Shell Script, Java, Python, PHP, JavaScript
+
+Frontend & Backend Frameworks: React JS, Node JS
+
+Other Tools: ELK Stack, EFK Stack, ServiceNow, Akamai CDN, RedHat Cluster (6 & 7)
 
 
 
