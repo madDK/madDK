@@ -5,15 +5,18 @@
 Self-driven, exact, analytic thinker that has experienced with collaborating with the Development, QA and IT team with DevOps mindset to provide the better software and infrastructure by implementing security, monitoring and tuning the configuration of these systems. Maintaining the systems with optimizing the Delivery infrastructure by improving performance, scalability and efficiency of the setup. Driven by technical challenges and is always eager to find better and more efficient ways of delivering solutions to the customer.
 
 #### 💻 Technical Skills
-Containerization & Orchestration: Kubernetes, Rancher, Docker, Istio
 
-CI/CD Tools: Jenkins, SonarQube, Terraform, Ansible
+🚢 Containerization & Orchestration: Kubernetes, Rancher, Docker, Istio
 
-Cloud Platforms: AWS, Azure, GCP, AKS
+⚙️ CI/CD Tools: Jenkins, SonarQube, Terraform, Ansible
 
-Monitoring & Alerting: PagerDuty, NewRelic, Pingdom, Nagios, Prometheus, Grafana
+☁️ Cloud Platforms: AWS, Azure, GCP, AKS
 
-Databases: MySQL, MongoDB, PostgreSQL
+🖥️ mMonitoring & Alerting: PagerDuty, NewRelic, Pingdom, Nagios, Prometheus, Grafana
+
+:database  Databases: MySQL, MongoDB, PostgreSQL
+![Istio](https://img.shields.io/badge/Istio-4665b8?style=flat&logo=istio&logoColor=white)
+
 
 Web Servers & Proxies: Apache Tomcat Server, nginx
 
