@@ -4,7 +4,9 @@
 
 Experienced ICT Assistant and Tech Support professional, Web Development with a strong background in IT field operations and management assistance. I specialize in delivering effective solutions for system administration, software development, and technical support.
 
-Skills:  REACT / JS / HTML / CSS/ PHP/ Linux / Windows
+### Skills
+
+REACT / JS / HTML / CSS/ PHP/ Linux / Windows
 
 
 
