@@ -4,7 +4,7 @@
 
 Self-driven, exact, analytic thinker that has experienced with collaborating with the Development, QA and IT team with DevOps mindset to provide the better software and infrastructure by implementing security, monitoring and tuning the configuration of these systems. Maintaining the systems with optimizing the Delivery infrastructure by improving performance, scalability and efficiency of the setup. Driven by technical challenges and is always eager to find better and more efficient ways of delivering solutions to the customer.
 
-#### 💻 Technical Skills
+###💻 Technical Skills
 
 **Kubernetes**, **Rancher**, **Docker**, **Istio**, **Jenkins**, **SonarQube**, **Terraform**, **Ansible** 
 **AWS**, **Azure**, **GCP**, **AKS**, **PagerDuty**, **NewRelic**, **Pingdom**, **Nagios**, **Prometheus**, **Grafana** 
