@@ -1,4 +1,4 @@
-### Hi there 👋, Dushmantha Kriyaanvitha
+### Hi there 👋 I am Dushmantha Kriyaanvitha
 #### Desktop Support | Technical Support |Web Developer
 ![Desktop Support | Technical Support |Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQEd-wF713eP-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710841465517?e=1742428800&v=beta&t=_mgv8aiHesSlVf_9un8q8AbpKd-GO8u4fgBgztPJB_g)
 
