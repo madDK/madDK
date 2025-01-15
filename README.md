@@ -6,11 +6,11 @@ Self-driven, exact, analytic thinker that has experienced with collaborating wit
 
 #### 💻 Technical Skills
 
-** Kubernetes, Rancher, Docker, Istio | Jenkins, SonarQube, Terraform, Ansible **
-** AWS, Azure, GCP, AKS | PagerDuty, NewRelic, Pingdom, Nagios, Prometheus, Grafana **
-** MySQL, MongoDB, PostgreSQL | Apache Tomcat Server, nginx ** 
-**Programming & Scripting Languages: Shell Script, Java, Python, PHP, JavaScript** 
-** React JS, Node JS |ELK Stack, EFK Stack, ServiceNow, Akamai CDN, RedHat Cluster (6 & 7) **
+**Kubernetes**, **Rancher**, **Docker**, **Istio**, **Jenkins**, **SonarQube**, **Terraform**, **Ansible** 
+**AWS**, **Azure**, **GCP**, **AKS**, **PagerDuty**, **NewRelic**, **Pingdom**, **Nagios**, **Prometheus**, **Grafana** 
+**MySQL**, **MongoDB**, **PostgreSQL**, **Apache Tomcat Server**, **nginx** 
+**Shell Script**, **Java**, **Python**, **PHP**, **JavaScript** 
+**React JS**, **Node JS**, **ELK Stack**, **EFK Stack**, **ServiceNow**, **Akamai CDN**, **RedHat Cluster (6 & 7)** 
 
 
 
